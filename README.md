@@ -1,1 +1,4 @@
-I'm still figuring this github thingy
+Aryan Basel
+18
+Nepal
+Learning frontend development using Reactjs.
